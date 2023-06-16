@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://medium.com/feed/@ntwariblaze, https://seblaise.dev/blogs/"
+          feed_list: "https://medium.com/feed/@ntwariblaze, https://seblaise.dev/blogs/index.html"
