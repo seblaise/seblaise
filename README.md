@@ -11,11 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [seblaise.dev](seblaise.dev)
 
-- 💬 Ask me about **angular, ionic, iOS deployment to the appstore**
+- 💬 Ask me about **angular, ionic, iOS deployment to the App store**
 
 - 📫 How to reach me **blaise@hellothe.re**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
