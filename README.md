@@ -15,9 +15,10 @@
 
 - 📫 How to reach me **blaise@hellothe.re**
 
-### Blogs posts
+### Latest Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [AI Transforms English into a Programming Language: The Revolution of ChatGPT](https://medium.com/@ntwariblaze/ai-transforms-english-into-a-programming-language-the-revolution-of-chatgpt-2faac75e4e30?source=rss-7dfc67a7bd72------2)
 - [Setting up a Dockerized NestJS App with PostgreSQL and Prisma ORM](https://medium.com/@ntwariblaze/setting-up-a-dockerized-nestjs-app-with-postgresql-and-prisma-orm-baa3a84f2797?source=rss-7dfc67a7bd72------2)
 <!-- BLOG-POST-LIST:END -->
