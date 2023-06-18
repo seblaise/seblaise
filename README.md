@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [seblaise.dev](seblaise.dev)
+- 👨‍💻 All of my projects are available at [seblaise.dev](https://seblaise.dev/projects/)
 
 - 💬 Ask me about **angular, ionic, iOS deployment to the App store**
 
